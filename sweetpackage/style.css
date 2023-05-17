@@ -1,0 +1,37 @@
+body {
+    height: 100vh;
+    /* background: linear-gradient(100deg, white, rgb(159, 0, 204)); */
+    background-color: rgb(241, 136, 255);
+    /* background: linear-gradient(100deg, rgb(212, 57, 255), rgb(241, 136, 255)); */
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.nav-link{
+    font-size: 20px;
+    color: black;
+    margin: 20px;
+} 
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: white;
+}
+/* contact form from contact.html */
+.container-contact {
+    justify-content: center;
+    padding: 50px;
+    font-size: 20px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 15px;   
+    font-size: 15px;
+    /* background-color: rgb(241, 136, 255); */
+    background: linear-gradient(100deg, rgb(212, 57, 255), rgb(241, 136, 255));
+}
