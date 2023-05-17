@@ -1,0 +1,32 @@
+body,
+html {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(-100deg, #EBC3DB, #f2a9f6);
+}
+.clr-back{
+    background: linear-gradient(-100deg, #f2a9f6, #EBC3DB);
+}
+.section{
+    box-shadow: 0;
+    padding: 30px;
+    margin-bottom: 0;
+    transition: margin 0.25s linear 0.25s;
+}
+.fdb-block {
+    box-shadow: 0;
+    padding: 4rem 0;
+    margin-bottom: 0;
+    transition: margin 0.25s linear 0.25s;
+}
+footer{
+    background: linear-gradient(-100deg, #f2a9f6, #EBC3DB);
+    color: white;
+    padding: 2rem;
+}
+.nav-item a{
+    color: white;
+}
