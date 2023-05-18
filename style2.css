@@ -8,7 +8,7 @@ body {
 }
 p{
     font-size: 15px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .clr-back{
     background: linear-gradient(-100deg, #f2a9f6, #EBC3DB);
@@ -39,7 +39,7 @@ p{
     text-align: center;
 }
 .simple-it-is p{
-    font-size: 25px;
+    font-size: 20px;
 }
 .fdb-block {
     box-shadow: 0;
